@@ -2,5 +2,5 @@
 
 # This is our first script.
 
-echo 'Hello World!'
+echo "Hello World!"
 
